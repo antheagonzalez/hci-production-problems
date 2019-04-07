@@ -33,5 +33,7 @@ Having the buttons on the form have a different colored text calls the user's at
 * HCI Guideline Two (https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/):
 * Describe how you implemented that guideline in your sketch:
 
+Having the buttons with verbs as the titles "that a button is interactive and says what happens when you tap it". In addition, by having a border around the buttons, this helps the buttons stand out to the user.
+
 * HCI Guideline Three (https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/terminology/):
 * Describe how you implemented that guideline in your sketch:
