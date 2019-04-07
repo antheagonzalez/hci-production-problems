@@ -37,3 +37,4 @@ Having the buttons with verbs as the titles "that a button is interactive and sa
 
 * HCI Guideline Three (https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/terminology/):
 * Describe how you implemented that guideline in your sketch:
+Having the form consists of easy words and straight-forward phrases allows the user to understand the form and what information the form is asking for. 
