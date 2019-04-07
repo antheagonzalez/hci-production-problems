@@ -28,6 +28,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline One (https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/):
 * Describe how you implemented that guideline in your sketch:
 
+Having the buttons on the form have a different colored text calls the user's attention that the buttons are interactive and have their own important function. (They take the user to the next step, complete the order, or cancel the order)
+
 * HCI Guideline Two (https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/):
 * Describe how you implemented that guideline in your sketch:
 
