@@ -11,8 +11,8 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://drpete.co/?topic=25-point-website-usability-checklist
+2. https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
 
 * Your own condensed ten-item, must-have usability checklist:
 
