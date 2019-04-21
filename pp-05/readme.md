@@ -16,13 +16,13 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. The purpose of the site and the products offered are understood on the homepage
+2. All parts of the site are accessible from the homepage
+3. Labels are easy to understand
+4. Clear page layout
+5. Font size is readable
+6. Form instructions are clear
+7. All calls to actions appear clickable
+8. Good text-to-background contrast
+9. Main navigation is easily identifiable
+10. Site load-time is quick
